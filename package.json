@@ -1,0 +1,25 @@
+{
+  "name": "webui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webui.js",
+  "dependencies": {
+    "express": "^4.15.0",
+    "redis": "^2.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node webui.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gloppasglop/openshift-dockercoin-webui.git"
+  },
+  "author": "",
+  "license": "Apache License, Version 2.0",
+  "bugs": {
+    "url": "https://github.com/gloppasglop/openshift-dockercoin-webui/issues"
+  },
+  "homepage": "https://github.com/gloppasglop/openshift-dockercoin-webui#readme"
+}
