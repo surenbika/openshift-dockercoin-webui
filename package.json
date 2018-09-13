@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gloppasglop/openshift-dockercoin-webui.git"
+    "url": "git+https://github.com/surenbika/openshift-dockercoin-webui.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/gloppasglop/openshift-dockercoin-webui/issues"
+    "url": "https://github.com/surenbika/openshift-dockercoin-webui/issues"
   },
-  "homepage": "https://github.com/gloppasglop/openshift-dockercoin-webui#readme"
+  "homepage": "https://github.com/surenbika/openshift-dockercoin-webui#readme"
 }
